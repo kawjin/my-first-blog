@@ -1,3 +1,8 @@
-ユーザーネーム: jin
+﻿ユーザーネーム: jin
 e-mail: a5816026@aoyama.jp
 pass: kanazawa
+
+git
+ユーザーネーム: kawjin
+e-mail: a5816026@aoyama.jp
+pass: kanazawa7
