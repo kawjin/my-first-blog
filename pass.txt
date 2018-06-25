@@ -2,7 +2,7 @@
 e-mail: a5816026@aoyama.jp
 pass: kanazawa
 
-git
+git pythonanywhere
 ユーザーネーム: kawjin
 e-mail: a5816026@aoyama.jp
 pass: kanazawa7
