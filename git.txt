@@ -6,5 +6,7 @@ git status
 
 git commit -m "a"
 
+git pull
+
 git push
 
