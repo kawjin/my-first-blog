@@ -1,22 +1,3 @@
-from django.shortcuts import render
-from django.http import HttpResponse
-
-# Create your views here.
-
-def appmain(request):
-# write your python code
-
-
-
-
-
-
-
-
-
-
-#pythonの電卓のコード↓
-
 #coding: utf-8
 
 import sys
@@ -88,21 +69,3 @@ for i in opePluMin:
 #    print(data)
 
 print(">> " + str(data[0]))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-return render(request, 'demo/simple.html', {
-    'data':str(data[0])
-})
